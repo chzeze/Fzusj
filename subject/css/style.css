@@ -1,0 +1,121 @@
+@charset "utf-8";
+/* CSS Document */        
+        <style type="text/css">
+/*主体内容*/
+        .mainContext
+        {
+        width:300px;
+        }
+        /*左侧主体*/
+        .leftContext
+        {
+        float: left;
+        width: 100px;
+        }
+        /*左侧主体内容1*/
+        .leftContextdiv1
+        {
+        float: left;
+        width: 0px;
+        border-bottom: 1px solid #BDBDBD;
+        }
+        /*右侧主体*/
+        .rightContext
+        {
+        float: right;
+        width: 100px;
+        border-left: 1px solid #BDBDBD;
+        }
+        </style>
+        <style type="text/css">
+
+         
+        body { 
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size:12px; 
+        color:#666666; 
+        background:#fff; 
+        text-align:center; 
+		
+        } 
+
+        * { 
+        margin:0; 
+        padding:0; 
+        } 
+
+        a { 
+        color:#1E7ACE; 
+        text-decoration:none;   
+        } 
+
+        a:hover { 
+        color:#000; 
+        text-decoration:underline; 
+        } 
+        h1 { 
+        font-size:24px; 
+        font-weight:bold; 
+        } 
+
+        pre,p {
+	color: #000;
+	margin: 4px;
+	font-size: 18px;
+	font-family: 仿宋,宋体;
+        } 
+        input, select,textarea { 
+        padding:1px; 
+        margin:2px; 
+        font-size:11px; 
+        } 
+        .buttom{ 
+        padding:1px 10px; 
+        font-size:12px; 
+        border:1px #1E7ACE solid; 
+        background:#D0F0FF; 
+        } 
+        #formwrapper { 
+        width:850px; 
+        margin:15px auto; 
+        padding:20px; 
+        text-align:left; 
+        border:1px #1E7ACE solid; 
+        } 
+
+        fieldset { 
+        padding:10px; 
+        margin-top:5px; 
+        border:1px solid #1E7ACE; 
+        background:#fff; 
+		filter:alpha(opacity:90);opacity:0.9;
+        } 
+
+        fieldset legend { 
+        color:#1E7ACE; 
+		font-size:12px;
+        font-weight:bold; 
+        padding:3px 20px 3px 20px; 
+        border:1px solid #1E7ACE;   
+        background:#fff; 
+        } 
+
+        fieldset label { 
+        float:left; 
+        width:120px; 
+        text-align:right; 
+        padding:4px; 
+        margin:1px; 
+        } 
+
+        fieldset div { 
+        clear:left; 
+        margin-bottom:2px; 
+        } 
+
+        .enter{ text-align:center;} 
+        .clear { 
+        clear:both; 
+        } 
+         
+        </style>

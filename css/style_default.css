@@ -1,0 +1,71 @@
+/* CSS Document */
+
+.td {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 11pt
+}
+.form1 {
+	BACKGROUND-COLOR: #ffffff; BORDER-BOTTOM: #999999 1px solid; BORDER-LEFT: #999999 1px solid; BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; COLOR: #333333; FONT-SIZE: 9pt; HEIGHT: 18px
+}
+TD {
+	COLOR: #666666; FONT-SIZE: 9pt; LINE-HEIGHT: 13pt
+}
+.tdgra1 {
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#9DDDFC', endColorStr='#ffffff', gradientType='1')
+}
+.h1 {
+	COLOR: #ff8a00; FONT-SIZE: 9pt; FONT-WEIGHT: bold
+}
+A {
+	COLOR: #336699; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff6600
+}
+.h2 {
+	COLOR: #00aeef; FONT-WEIGHT: bold
+}
+.td_height {
+	HEIGHT: 20pt
+}
+.black {
+	COLOR: #000000; FONT-SIZE: 9pt
+}
+.td_top5 {
+	PADDING-TOP: 3px
+}
+.h3 {
+	COLOR: #39b54a; FONT-WEIGHT: bold
+}
+.green {
+	COLOR: #449509
+}
+.bai {
+	COLOR: #ffffff; FONT-WEIGHT: bolder; PADDING-TOP: 10px
+}
+.red {
+	COLOR: #ff0000; FONT-WEIGHT: bold
+}
+.blue {
+	COLOR: #007caf
+}
+.bai2 {
+	COLOR: #ffffff
+}
+.f21 {
+	COLOR: #333333; FONT-SIZE: 14px; LINE-HEIGHT: 150%
+}
+.f22 {
+	FONT-SIZE: 20px
+}
+.smalltitle {
+	FONT-SIZE: 9pt
+}
+BODY {
+	MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.td175 {
+	LINE-HEIGHT: 175%
+}
+.blue12 {
+	COLOR: #007caf; FONT-SIZE: 14px
+}
